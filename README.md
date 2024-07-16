@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Ac1T5W_JIAZuLRPeWtviHIz47yiosGbXcLimdFOaoWo/edit](https://docs.google.com/document/d/1Ac1T5W_JIAZuLRPeWtviHIz47yiosGbXcLimdFOaoWo/edit)
 
-- ⚡ Fun fact **I am Hard Working**
+- ⚡ Fun fact **I am Very Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
