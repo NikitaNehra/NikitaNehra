@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitanehra&label=Profile%20views&color=0e75b6&style=flat" alt="nikitanehra" /> </p>
 
-- 🔭 I’m currently working on **Weather Forecasting**
-
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **nikitanehra01@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Ac1T5W_JIAZuLRPeWtviHIz47yiosGbXcLimdFOaoWo/edit](https://docs.google.com/document/d/1Ac1T5W_JIAZuLRPeWtviHIz47yiosGbXcLimdFOaoWo/edit)
